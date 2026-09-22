@@ -1,4 +1,4 @@
-# My Bookshelf — AI-Powered Reading Tracker
+# My Bookshelf : AI-Powered Reading Tracker
 
 A personal reading tracker you talk to in plain English. Built as a tool-calling
 project: an LLM (via the OpenAI Responses API) decides which Python function to
@@ -9,6 +9,8 @@ Two interfaces share the same backend:
 - **`main.py`** — a terminal chat loop
 - **`bookshelf_ui.py`** — a Streamlit app with a visual bookshelf illustration,
   a month filter, and the same chat assistant in a side panel
+
+<img width="1450" height="754" alt="Image" src="https://github.com/user-attachments/assets/37b29eb5-183f-4eba-b282-44eb78bde383" />
 
 ## Features
 
